@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘畅
+title: LIU Chang
 
 # Name pronunciation (optional)
 name_pronunciation: Chang LIU
