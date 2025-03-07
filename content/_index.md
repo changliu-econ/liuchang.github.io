@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "LIU Chang"
+      text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -43,7 +43,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: Research
     content:
       title: Featured Publications
       filters:
@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: Teaching
     content:
       title: Recent & Upcoming Talks
       filters:
